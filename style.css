@@ -1,5 +1,5 @@
 body {
-    font-family: "Crimson Text", serif;
+    font-family: Crimson Text;
     background-color: #fefae0;
     color: #283618;
     margin: 0;
@@ -16,7 +16,7 @@ body {
 }
 
 .container h1 {
-    font-family: "Emblema One";
+    font-family: Emblema One;
     font-size: 70px;
     margin-bottom: 10px;
 }
@@ -101,4 +101,5 @@ td {
 
 .footer a:hover {
     color: #fefae0;
+
 }
