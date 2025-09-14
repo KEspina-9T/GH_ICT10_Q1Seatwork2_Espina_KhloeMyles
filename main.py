@@ -15,7 +15,7 @@ prod4='Rose Petal Tart' #4th product
 price4='₱160' #4th price
 prod5='Maple Syrup Waffles' #5th product
 price5='₱140' #5th price
-schedule='Open Daily | 7:00am - 9pm' #Opening hours
+schedule='Open Daily | 7:00a.m - 9:00p.m' #Opening hours
 
 display(f'{r_name}', target="result")
 display(f'{o_name}', target="result1")
@@ -31,6 +31,7 @@ display(f'{price3}', target="price3")
 display(f'{price4}', target="price4")
 display(f'{price5}', target="price5")
 display(f'{schedule}', target="Sched")
+
 
 
 
